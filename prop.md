@@ -2,7 +2,7 @@
 
 ## Group Members:
 
-Owen Shi & Lous Oh-Aronson
+Owen Shi & Louis Oh-Aronson
 
 # Intentions:
 
@@ -33,6 +33,6 @@ Merge game with tournament server (Jan 12th) - Louis
 
 Player resign, draw request through signals? (Jan 15th)  - Owen and Louis
 
-Bug fixes - Owen and Louis
+Bug fixes (Jan 15th) - Owen and Louis
 
 Smoothen everything, make it look nice (Jan 15th) - Owen and Louis
